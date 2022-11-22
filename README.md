@@ -29,3 +29,8 @@ A aba "Água"  irá permitir o usuário cadastar seus horários de ingerir água
 Medicamentos:
 
 A aba "Medicamentos" irá permitir o usuário cadastre o nome, o horário e a dosagem e o nome de um medicamento.
+
+# Referências:
+https://www.youtube.com/watch?v=P13ycvI-17Q
+https://www.youtube.com/watch?v=cYMruFKwqf0
+https://www.arquivodecodigos.com.br/dicas/4004--como-usar-fxml-para-criar-os-componentes-visuais-de-suas-aplicacoes-javafx.html
